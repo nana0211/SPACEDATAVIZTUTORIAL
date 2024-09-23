@@ -24,6 +24,14 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 2. **Ensure you have a stable internet connection** for the best experience.
 
 ---
+## Selecting Measurement Options
+
+1. Before uploading your JSON file, you have the option to choose between:
+
+- **Detailed Measures**
+- **Quick Summary of Measures**
+
+These options determine the level of detail in the data extracted from your JSON file.
 
 ## Uploading a JSON File
 
@@ -36,8 +44,12 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 ![Choose File Button Screenshot](UploadFile.png)
 
 3. **Navigate to the JSON file** on your computer that you wish to upload.
+4. **Select an Option**:
 
-4. **Click on the "Upload" button** to start the upload process.
+- **Detailed Measures**: Provides an in-depth extraction of all available data from the JSON file.
+- **Quick Summary of Measures**: Provides a summarized version of the key measures from the JSON file.
+
+5. **Click on the "Upload" button** to start the upload process.
 
 ![Upload Button Screenshot](ClickButtonForUpload.png)
 
