@@ -37,8 +37,6 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 
 3. **Navigate to the JSON file** on your computer that you wish to upload.
 
-![File Selector Screenshot](screenshots/file_selector.png)
-
 4. **Click on the "Upload" button** to start the upload process.
 
 ![Upload Button Screenshot](ClickButtonForUpload.png)
