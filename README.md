@@ -19,7 +19,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 ## Accessing the Website
 
 1. **Open your web browser** and navigate to the website URL: https://space.fhtsecethz.org
-   ![Homepage Screenshot](screenshots/homepage.png)
+   ![Homepage Screenshot](MainPage.png)
 
 2. **Ensure you have a stable internet connection** for the best experience.
 
