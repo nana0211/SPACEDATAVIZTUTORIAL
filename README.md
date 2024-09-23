@@ -55,8 +55,8 @@ These options determine the level of detail in the data extracted from your JSON
 
 5. **Wait for the upload to complete**. A confirmation message will appear once the file is successfully uploaded.
 
-![Upload Confirmation Screenshot](Upload1)
-![Upload Confirmation Screenshot](GetColumns)
+![Upload ConfirmationI Screenshot](Upload1)
+![Upload ConfirmationII Screenshot](GetColumns)
 
 ---
 
