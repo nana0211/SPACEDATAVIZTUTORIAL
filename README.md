@@ -29,7 +29,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 
 1. **Locate the Upload Section** on the homepage.
 
-![Upload Section Screenshot](screenshots/upload_section.png)
+![Upload Section Screenshot](Screenshot 2024-09-23 at 16.16.51.png)
 
 2. **Click on the "Choose File" button** to open the file selector dialog.
 
