@@ -99,9 +99,7 @@ These options determine the level of detail in the data extracted from your JSON
 
 2. **Click on the "Download" button** to generate and download the CSV file.
 
-3. **Save the CSV file** to your desired location on your computer.
-
-![Save File Dialog Screenshot](SeeDownload.png)
+3. **Save the CSV file** the downloaded csv always goes to your download folder.
 
 4. **Open the CSV file** with your preferred spreadsheet application to view the data.
 
