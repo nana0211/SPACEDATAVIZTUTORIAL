@@ -1,4 +1,4 @@
-# SPACE Data convert Website Usage Guide
+# SPACE Data Convert Website Usage Guide
 
 Welcome to our website! This guide will walk you through the steps to upload a JSON file, select the desired data columns, and download the data as a CSV file.
 
