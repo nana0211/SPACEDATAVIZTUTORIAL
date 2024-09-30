@@ -1,7 +1,6 @@
 # SPACE Data Convert Website Usage Guide
 
 Welcome to our website! This guide will walk you through the steps to upload a JSON file, select the desired data columns, and download the data as a CSV file.
-
 ---
 
 ## Table of Contents
@@ -18,7 +17,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 
 ## Accessing the Website
 
-1. **Open your web browser** and navigate to the website URL: https://space.fhtsecethz.org
+1. **Open your web browser** and navigate to the website URL: https://space.fhtsecethz.org [Note: If you are using internet from a university, it might not work. You have to switch to your own wifi or 4G/5G]
    ![Homepage Screenshot](MainPage.png)
 
 2. **Ensure you have a stable internet connection** for the best experience.
