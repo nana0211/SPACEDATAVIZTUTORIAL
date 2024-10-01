@@ -1,6 +1,6 @@
 # SPACE Data Convert Website Usage Guide
 
-Welcome to our website! This guide will walk you through the steps to upload a JSON file, select the desired data columns, and download the data as a CSV file.
+Welcome to our website! This guide will walk you through the steps to upload a JSON file or a Zip file, select the desired data columns, and download the data as a CSV file.
 ---
 
 ## Table of Contents
@@ -32,13 +32,15 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 
 These options determine the level of detail in the data extracted from your JSON file.
 
-## Uploading a JSON File
+## Uploading a JSON File or Zip File
 
 1. **Locate the Upload Section** on the homepage.
-
+Upload a JSON file:
 ![Upload Section Screenshot](UploadFile.png)
+Upload a Zip file:
+![Upload Section Screenshot2](UploadZip.png)
 
-2. **Click on the "Choose File" button** to open the file selector dialog.
+3. **Click on the "Choose File" button** to open the file selector dialog.
 
 ![Choose File Button Screenshot](UploadFile.png)
 
