@@ -25,7 +25,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 ---
 ## Selecting Measurement Options
 
-1. Before uploading your JSON file, you have the option to choose between:
+1. Before uploading your JSON file or Zip file, you have the option to choose between:
 
 - **Detailed Measures**
 - **Quick Summary of Measures**
