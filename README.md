@@ -35,8 +35,10 @@ These options determine the level of detail in the data extracted from your JSON
 ## Uploading a JSON File or Zip File
 
 1. **Locate the Upload Section** on the homepage.
+   
+![Locate Uploading Area Screenshot](Locate.png)
 
-3. **Click on the "Choose File" button** to open the file selector dialog.
+2. **Click on the "Choose File" button** to open the file selector dialog.
 
 ![Choose File Button Screenshot](UploadFile.png)
 
