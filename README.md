@@ -6,7 +6,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 ## Table of Contents
 
 1. [Accessing the Website](#accessing-the-website)
-2. [Uploading a JSON File](#uploading-a-json-file)
+2. [Uploading a JSON File or Zip File](#uploading-a-json-file-or-zip-file)
 3. [Selecting Data Columns](#selecting-data-columns)
 4. [Downloading the CSV File](#downloading-the-csv-file)
 5. [Notes on Column Groups](#notes-on-column-groups)
@@ -32,7 +32,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 
 These options determine the level of detail in the data extracted from your JSON file.
 
-## Uploading a JSON File
+## Uploading a JSON File or Zip File
 
 1. **Locate the Upload Section** on the homepage.
 
