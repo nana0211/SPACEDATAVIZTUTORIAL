@@ -32,19 +32,19 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 
 These options determine the level of detail in the data extracted from your JSON file.
 
-## Uploading a JSON File or Zip File
+## Uploading a JSON File
 
 1. **Locate the Upload Section** on the homepage.
-Upload a JSON file:
-![Upload Section Screenshot](UploadFile.png)
-Upload a Zip file:
-![Upload Section Screenshot2](UploadZip.png)
 
 3. **Click on the "Choose File" button** to open the file selector dialog.
 
 ![Choose File Button Screenshot](UploadFile.png)
 
 3. **Navigate to the JSON file** on your computer that you wish to upload.
+Upload a JSON file:
+![Upload Section Screenshot](UploadFile.png)
+Upload a Zip file:
+![Upload Section Screenshot2](UploadZip0.png)
 4. **Select an Option**:
 
 - **Detailed Measures**: Provides an in-depth extraction of all available data from the JSON file.
