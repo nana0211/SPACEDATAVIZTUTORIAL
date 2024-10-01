@@ -38,7 +38,7 @@ These options determine the level of detail in the data extracted from your JSON
    
 ![Locate Uploading Area Screenshot](Locate.png)
 
-2. **Click on the "Choose File" button** to open the file selector dialog.
+2. **Click on the "Select a File" button** to open the file selector dialog.
 
 ![Choose File Button Screenshot](UploadFile.png)
 
