@@ -1,7 +1,6 @@
 # SPACE Data Convert Website Usage Guide
 
-Welcome to our website! This guide will walk you through the steps to upload a JSON file or a Zip file, select the desired data columns, and download the data as a CSV file.
----
+## Welcome to our website! This guide will walk you through the steps to upload a JSON file or a Zip file, select the desired data columns, and download the data as a CSV file.
 
 ## Table of Contents
 
@@ -23,6 +22,7 @@ Welcome to our website! This guide will walk you through the steps to upload a J
 2. **Ensure you have a stable internet connection** for the best experience.
 
 ---
+
 ## Selecting Measurement Options
 
 1. Before uploading your JSON file or Zip file, you have the option to choose between:
@@ -35,18 +35,18 @@ These options determine the level of detail in the data extracted from your JSON
 ## Uploading a JSON File or Zip File
 
 1. **Locate the Upload Section** on the homepage.
-   
-![Locate Uploading Area Screenshot](Locate.png)
+
+![Locate Uploading Area Screenshot](Pics/Locate.png)
 
 2. **Click on the "Select a File" button** to open the file selector dialog.
 
-![Choose File Button Screenshot](UploadFile.png)
+![Choose File Button Screenshot](Pics/UploadFile.png)
 
 3. **Navigate to the JSON file** on your computer that you wish to upload.
-Upload a JSON file:
-![Upload Section Screenshot](UploadFile.png)
-Upload a Zip file:
-![Upload Section Screenshot2](UploadZip0.png)
+   Upload a JSON file:
+   ![Upload Section Screenshot](Pics/UploadFile.png)
+   Upload a Zip file:
+   ![Upload Section Screenshot2](Pics/UploadZip0.png)
 4. **Select an Option**:
 
 - **Detailed Measures**: Provides an in-depth extraction of all available data from the JSON file.
@@ -58,8 +58,8 @@ Upload a Zip file:
 
 5. **Wait for the upload to complete**. A confirmation message will appear once the file is successfully uploaded.
 
-![Upload Screenshot](Upload1.png)
-![Upload ConfirmationI Screenshot](GetColumns.png)
+![Upload Screenshot](Pics/Upload1.png)
+![Upload ConfirmationI Screenshot](Pics/GetColumns.png)
 
 ---
 
@@ -77,18 +77,18 @@ Upload a Zip file:
   - `Perspective Taking`
   - `Overall Measures`
 
-![Column Groups Screenshot](SelectColumns.png)
+![Column Groups Screenshot](Pics/SelectColumns.png)
 
 2. **Expand a Column Group** by clicking on it to see the individual columns.
 
-![Expanded Column Group Screenshot](SelectColumns.png)
+![Expanded Column Group Screenshot](Pics/SelectColumns.png)
 
 3. **Select the Columns** you wish to include in your CSV file by checking the boxes next to them.
 
 - You can select individual columns or entire groups.
 - Note that some groups might not be available if they are not present in your JSON file.
 
-![Selecting Columns Screenshot](SelectColumns.png)
+![Selecting Columns Screenshot](Pics/SelectColumns.png)
 
 4. **Review your selections**. Selected columns will be highlighted or marked with a check.
 
@@ -98,7 +98,7 @@ Upload a Zip file:
 
 1. **Once you have made your selections**, locate the **"Download"** button at the bottom of the column selection panel.
 
-![Download Button Screenshot](Download.png)
+![Download Button Screenshot](Pics/Download.png)
 
 2. **Click on the "Download" button** to generate and download the CSV file.
 
