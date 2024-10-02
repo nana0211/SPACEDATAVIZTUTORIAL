@@ -17,7 +17,7 @@
 ## Accessing the Website
 
 1. **Open your web browser** and navigate to the website URL: https://space.fhtsecethz.org [Note: If you are using internet from a university, it might not work. You have to switch to your own wifi or 4G/5G]
-   ![Homepage Screenshot](MainPage.png)
+   ![Homepage Screenshot](Pics/MainPage.png)
 
 2. **Ensure you have a stable internet connection** for the best experience.
 
